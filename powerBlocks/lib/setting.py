@@ -1,0 +1,7 @@
+SCREEN_WIDTH = 1920
+SCREEN_HEIGHT = 1080
+GAME_TITLE = "dogsworld"
+FPS = 60
+
+border = 25
+EDGE = [[0,0,SCREEN_WIDTH,border],[0,0,border,SCREEN_HEIGHT],[0,SCREEN_HEIGHT-border,SCREEN_WIDTH,border],[SCREEN_WIDTH-border,0,border,SCREEN_HEIGHT]]
